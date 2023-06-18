@@ -1,0 +1,6 @@
+*
+!nostr-tools/
+!*.md
+!*.js
+!package.json
+!.git*
