@@ -1,0 +1,38 @@
+{
+	"npub": [
+		"https://snort.social/p/",
+		"https://coracle.social/",
+		"https://satellite.earth/@",
+		"https://iris.to/",
+		"https://nostr.band/",
+		"https://highlighter.com/p/"
+	],
+	"nprofile": [
+		"https://snort.social/p/",
+		"https://coracle.social/",
+		"https://satellite.earth/@",
+		"https://iris.to/",
+		"https://nostr.band/",
+		"https://highlighter.com/p/"
+	],
+	"nevent": [
+		"https://snort.social/e/",
+		"https://coracle.social/",
+		"https://satellite.earth/thread/",
+		"https://iris.to/",
+		"https://nostr.band/",
+		"https://highlighter.com/a/"
+	],
+	"note": [
+		"https://snort.social/e/",
+		"https://coracle.social/",
+		"https://satellite.earth/thread/",
+		"https://iris.to/",
+		"https://nostr.band/",
+		"https://highlighter.com/a/"
+	],
+	"naddr": [
+		"https://highlighter.com/a/",
+		"https://blogstack.io/"
+	]
+}
