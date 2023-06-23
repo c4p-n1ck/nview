@@ -3,6 +3,7 @@
 const tools = require("./nostr-tools");
 const fs = require("fs");
 
+// NIP-05: https://nostr-check.com/.well-known/nostr.json?name=xadkekopc
 console.log(process.env);
 console.log(tools);
 

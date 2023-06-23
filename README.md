@@ -14,7 +14,9 @@ npm run prepare
 
 ---
 
-Motivation: https://relayable.org
+## Motivation
+- https://relayable.org
+- https://mostr.pub/
 
 ---
 
